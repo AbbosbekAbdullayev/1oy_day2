@@ -1,0 +1,43 @@
+body{
+  background-color:#00d9af;
+}
+.box{
+  width: 700px;
+  height: 500px;
+  background-color:white;
+  border-radius: 20px;
+}
+.list{
+  list-style-type: none;
+}
+img{
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+}
+.personal{
+  text-transform: uppercase;
+  color: grey;
+  font-weight: bold;
+}
+.domain,.disk,.support,.PUL{
+  color: grey;
+}
+strong{
+  color:black;
+}
+.line{
+  display: inline-block;
+  width: 80px;
+  height: 2px;
+  background-color:black;
+}
+.item{
+  display: inline-block;
+}
+.TEAM{
+  color: yellow;
+}
+.qizil{
+  color: tomato;
+}
